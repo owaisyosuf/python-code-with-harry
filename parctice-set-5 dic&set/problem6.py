@@ -12,4 +12,4 @@ while(i<4):
 
 print(type(dic))
 print(dic)
-print(dic[0])
+
